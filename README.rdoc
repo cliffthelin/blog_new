@@ -1,4 +1,4 @@
-Test Rails Blog App - Cliff Thelin
+Test Rails Blog Application - Cliff Thelin
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
